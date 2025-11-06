@@ -11,6 +11,22 @@ These are the "meta" concepts that experienced developers take for granted but a
 
 ---
 
+## Table of Contents
+
+1. [Everything is Code Running Somewhere](#1-everything-is-code-running-somewhere)
+2. [Servers are Just Computers](#2-servers-are-just-computers)
+3. [Code Lives and Runs](#3-code-lives-and-runs)
+4. [Deployment and Updates](#4-deployment-and-updates)
+5. [Environments](#5-environments)
+6. [State and Persistence](#6-state-and-persistence)
+7. [Networks and Communication](#7-networks-and-communication)
+8. [Concurrency](#8-concurrency)
+9. [Scaling](#9-scaling)
+10. [Dependencies](#10-dependencies)
+11. [Configuration vs. Code](#11-configuration-vs-code)
+12. [The Request Journey](#12-the-request-journey)
+
+---
 
 ### 1. Everything is Code Running Somewhere
 

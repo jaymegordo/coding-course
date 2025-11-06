@@ -11,6 +11,14 @@ Learn about cloud services, deployment, and infrastructure.
 
 ---
 
+## Table of Contents
+
+24. [Cloud Storage](#24-cloud-storage)
+25. [Serverless Functions](#25-serverless-functions)
+26. [Containerization](#26-containerization)
+
+---
+
 ### 24. Cloud Storage
 
 #### What is Cloud Storage?

@@ -11,6 +11,18 @@ Learn how servers, APIs, databases, and backend systems work.
 
 ---
 
+## Table of Contents
+
+13. [Web Frameworks](#13-web-frameworks)
+14. [APIs - The Restaurant Menu of the Web](#14-apis---the-restaurant-menu-of-the-web)
+15. [Databases and ORMs](#15-databases-and-orms)
+16. [Authentication and Authorization](#16-authentication-and-authorization)
+17. [Async Processing and Task Queues](#17-async-processing-and-task-queues)
+18. [Caching](#18-caching)
+19. [Real-Time Communication](#19-real-time-communication)
+
+---
+
 ### 13. Web Frameworks
 
 #### What is a Web Framework?

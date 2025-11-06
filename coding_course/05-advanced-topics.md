@@ -6,8 +6,18 @@ Explore machine learning, AI, testing, and monitoring.
 
 **Previous**: [Part 4: Cloud & Infrastructure](04-cloud-infrastructure.md)
 
----
 [← Back to Introduction](00-introduction.md)
+
+---
+
+## Table of Contents
+
+27. [Machine Learning Basics](#27-machine-learning-basics)
+28. [AI Agents and LLMs](#28-ai-agents-and-llms)
+29. [Testing](#29-testing)
+30. [Monitoring and Logging](#30-monitoring-and-logging)
+
+---
 
 ### 27. Machine Learning Basics
 

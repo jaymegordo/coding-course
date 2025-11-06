@@ -11,6 +11,15 @@ Understand how user interfaces are built and how they interact with backends.
 
 ---
 
+## Table of Contents
+
+20. [Component Architecture](#20-component-architecture)
+21. [State Management](#21-state-management)
+22. [API Integration](#22-api-integration)
+23. [Forms and Validation](#23-forms-and-validation)
+
+---
+
 ### 20. Component Architecture
 
 #### What are Components?
