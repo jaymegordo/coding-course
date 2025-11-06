@@ -119,7 +119,7 @@ You can turn your laptop into a server right now:
 #### Related Concepts
 - [Everything is Code Running Somewhere](#1-everything-is-code-running-somewhere)
 - [Scaling](#9-scaling)
-- [](04-cloud-infrastructure.md#24-cloud-storage)
+- [Cloud Storage](04-cloud-infrastructure.md#24-cloud-storage)
 
 ---
 
@@ -327,8 +327,8 @@ Think about a game:
 If you don't save, you lose your progress!
 
 #### Related Concepts
-- [](02-backend-development.md#15-databases-and-orms)
-- [](02-backend-development.md#18-caching)
+- [Databases and ORMs](02-backend-development.md#15-databases-and-orms)
+- [Caching](02-backend-development.md#18-caching)
 - [Everything is Code Running Somewhere](#1-everything-is-code-running-somewhere)
 
 ---
@@ -381,8 +381,8 @@ Think about ordering food:
 That's exactly how HTTP works!
 
 #### Related Concepts
-- [](02-backend-development.md#14-apis-the-restaurant-menu-of-the-web)
-- [](02-backend-development.md#19-real-time-communication)
+- [APIs - The Restaurant Menu of the Web](02-backend-development.md#14-apis-the-restaurant-menu-of-the-web)
+- [Real-Time Communication](02-backend-development.md#19-real-time-communication)
 - [The Request Journey](#12-the-request-journey)
 
 ---
@@ -432,9 +432,9 @@ Think about a busy coffee shop:
 - One barista with a queue system = Async (efficient, handles many orders)
 
 #### Related Concepts
-- [](02-backend-development.md#17-async-processing-and-task-queues)
+- [Async Processing and Task Queues](02-backend-development.md#17-async-processing-and-task-queues)
 - [Scaling](#9-scaling)
-- [](02-backend-development.md#19-real-time-communication)
+- [Real-Time Communication](02-backend-development.md#19-real-time-communication)
 
 ---
 
@@ -488,7 +488,7 @@ The app scales to handle growth!
 #### Related Concepts
 - [Concurrency](#8-concurrency)
 - [Servers are Just Computers](#2-servers-are-just-computers)
-- [](04-cloud-infrastructure.md#24-cloud-storage)
+- [Cloud Storage](04-cloud-infrastructure.md#24-cloud-storage)
 
 ---
 
@@ -540,8 +540,8 @@ Think about a recipe:
 You can't cook without dependencies!
 
 #### Related Concepts
-- [](02-backend-development.md#13-web-frameworks)
-- [](02-backend-development.md#15-databases-and-orms)
+- [Web Frameworks](02-backend-development.md#13-web-frameworks)
+- [Databases and ORMs](02-backend-development.md#15-databases-and-orms)
 - [Configuration vs. Code](#11-configuration-vs-code)
 
 ---
@@ -661,7 +661,7 @@ Next time you use a website, think through the journey:
 #### Related Concepts
 - [Everything is Code Running Somewhere](#1-everything-is-code-running-somewhere)
 - [Networks and Communication](#7-networks-and-communication)
-- [](02-backend-development.md#14-apis-the-restaurant-menu-of-the-web)
+- [APIs - The Restaurant Menu of the Web](02-backend-development.md#14-apis-the-restaurant-menu-of-the-web)
 - [Scaling](#9-scaling)
 
 ---

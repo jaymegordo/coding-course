@@ -148,7 +148,7 @@ Different state needs different management!
 #### Related Concepts
 - [Component Architecture](#20-component-architecture)
 - [API Integration](#22-api-integration)
-- [](01-foundational-mental-models.md#6-state-and-persistence)
+- [State and Persistence](01-foundational-mental-models.md#6-state-and-persistence)
 
 ---
 
@@ -212,9 +212,9 @@ Think about a social media feed:
 API integration powers dynamic applications!
 
 #### Related Concepts
-- [](02-backend-development.md#14-apis-the-restaurant-menu-of-the-web)
+- [APIs - The Restaurant Menu of the Web](02-backend-development.md#14-apis-the-restaurant-menu-of-the-web)
 - [State Management](#21-state-management)
-- [](02-backend-development.md#19-real-time-communication)
+- [Real-Time Communication](02-backend-development.md#19-real-time-communication)
 
 ---
 

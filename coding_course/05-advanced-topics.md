@@ -74,7 +74,7 @@ Machine learning powers many features you use daily!
 
 #### Related Concepts
 - [AI Agents and LLMs](#28-ai-agents-and-llms)
-- [](01-foundational-mental-models.md#6-state-and-persistence)
+- [State and Persistence](01-foundational-mental-models.md#6-state-and-persistence)
 
 ---
 
@@ -144,8 +144,8 @@ AI agents are powerful tools that augment human capabilities!
 
 #### Related Concepts
 - [Machine Learning Basics](#27-machine-learning-basics)
-- [](02-backend-development.md#14-apis-the-restaurant-menu-of-the-web)
-- [](01-foundational-mental-models.md#6-state-and-persistence)
+- [APIs - The Restaurant Menu of the Web](02-backend-development.md#14-apis-the-restaurant-menu-of-the-web)
+- [State and Persistence](01-foundational-mental-models.md#6-state-and-persistence)
 
 ---
 
@@ -211,9 +211,9 @@ Think about a calculator app:
 Testing ensures everything works!
 
 #### Related Concepts
-- [](01-foundational-mental-models.md#3-code-lives-and-runs)
-- [](01-foundational-mental-models.md#4-deployment-and-updates)
-- [](02-backend-development.md#13-web-frameworks)
+- [Code Lives and Runs](01-foundational-mental-models.md#3-code-lives-and-runs)
+- [Deployment and Updates](01-foundational-mental-models.md#4-deployment-and-updates)
+- [Web Frameworks](02-backend-development.md#13-web-frameworks)
 
 ---
 
@@ -274,9 +274,9 @@ Think about a website:
 Monitoring keeps systems healthy!
 
 #### Related Concepts
-- [](01-foundational-mental-models.md#4-deployment-and-updates)
-- [](01-foundational-mental-models.md#1-everything-is-code-running-somewhere)
-- [](01-foundational-mental-models.md#9-scaling)
+- [Deployment and Updates](01-foundational-mental-models.md#4-deployment-and-updates)
+- [Everything is Code Running Somewhere](01-foundational-mental-models.md#1-everything-is-code-running-somewhere)
+- [Scaling](01-foundational-mental-models.md#9-scaling)
 
 ---
 

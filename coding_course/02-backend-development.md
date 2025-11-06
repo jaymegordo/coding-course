@@ -94,7 +94,7 @@ Frameworks make building easier!
 #### Related Concepts
 - [APIs - The Restaurant Menu of the Web](#14-apis---the-restaurant-menu-of-the-web)
 - [Databases and ORMs](#15-databases-and-orms)
-- [](01-foundational-mental-models.md#10-dependencies)
+- [Dependencies](01-foundational-mental-models.md#10-dependencies)
 
 ---
 
@@ -160,10 +160,10 @@ Think about your favorite app on your phone. Every time you see new content, tha
 - Weather app: "What's the weather?" → API request → Gets weather data → Shows forecast
 
 #### Related Concepts
-- [](01-foundational-mental-models.md#12-the-request-journey)
-- [](01-foundational-mental-models.md#7-networks-and-communication)
+- [The Request Journey](01-foundational-mental-models.md#12-the-request-journey)
+- [Networks and Communication](01-foundational-mental-models.md#7-networks-and-communication)
 - [Authentication and Authorization](#16-authentication-and-authorization)
-- [](03-frontend-development.md#22-api-integration)
+- [API Integration](03-frontend-development.md#22-api-integration)
 
 ---
 
@@ -245,7 +245,7 @@ Think about a contact list app:
 You don't write SQL - you use the ORM!
 
 #### Related Concepts
-- [](01-foundational-mental-models.md#6-state-and-persistence)
+- [State and Persistence](01-foundational-mental-models.md#6-state-and-persistence)
 - [Web Frameworks](#13-web-frameworks)
 - [Caching](#18-caching)
 
@@ -320,8 +320,8 @@ Both are needed for security!
 
 #### Related Concepts
 - [APIs - The Restaurant Menu of the Web](#14-apis---the-restaurant-menu-of-the-web)
-- [](01-foundational-mental-models.md#6-state-and-persistence)
-- [](01-foundational-mental-models.md#7-networks-and-communication)
+- [State and Persistence](01-foundational-mental-models.md#6-state-and-persistence)
+- [Networks and Communication](01-foundational-mental-models.md#7-networks-and-communication)
 
 ---
 
@@ -393,9 +393,9 @@ Think about uploading a photo:
 Async makes apps feel faster!
 
 #### Related Concepts
-- [](01-foundational-mental-models.md#8-concurrency)
-- [](01-foundational-mental-models.md#9-scaling)
-- [](01-foundational-mental-models.md#6-state-and-persistence)
+- [Concurrency](01-foundational-mental-models.md#8-concurrency)
+- [Scaling](01-foundational-mental-models.md#9-scaling)
+- [State and Persistence](01-foundational-mental-models.md#6-state-and-persistence)
 
 ---
 
@@ -463,9 +463,9 @@ Think about a weather app:
 Caching makes apps faster and more efficient!
 
 #### Related Concepts
-- [](01-foundational-mental-models.md#6-state-and-persistence)
-- [](01-foundational-mental-models.md#9-scaling)
-- [](01-foundational-mental-models.md#7-networks-and-communication)
+- [State and Persistence](01-foundational-mental-models.md#6-state-and-persistence)
+- [Scaling](01-foundational-mental-models.md#9-scaling)
+- [Networks and Communication](01-foundational-mental-models.md#7-networks-and-communication)
 
 ---
 
@@ -529,9 +529,9 @@ Think about a chat app:
 Real-time communication makes apps feel alive!
 
 #### Related Concepts
-- [](01-foundational-mental-models.md#7-networks-and-communication)
-- [](01-foundational-mental-models.md#8-concurrency)
-- [](03-frontend-development.md#21-state-management)
+- [Networks and Communication](01-foundational-mental-models.md#7-networks-and-communication)
+- [Concurrency](01-foundational-mental-models.md#8-concurrency)
+- [State Management](03-frontend-development.md#21-state-management)
 
 ---
 

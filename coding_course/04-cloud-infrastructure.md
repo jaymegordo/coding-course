@@ -80,9 +80,9 @@ Think about photo storage apps:
 Cloud storage powers file features!
 
 #### Related Concepts
-- [](01-foundational-mental-models.md#2-servers-are-just-computers)
-- [](01-foundational-mental-models.md#6-state-and-persistence)
-- [](01-foundational-mental-models.md#9-scaling)
+- [Servers are Just Computers](01-foundational-mental-models.md#2-servers-are-just-computers)
+- [State and Persistence](01-foundational-mental-models.md#6-state-and-persistence)
+- [Scaling](01-foundational-mental-models.md#9-scaling)
 
 ---
 
@@ -141,9 +141,9 @@ Think about image processing:
 Serverless makes deployment easier!
 
 #### Related Concepts
-- [](01-foundational-mental-models.md#2-servers-are-just-computers)
-- [](01-foundational-mental-models.md#4-deployment-and-updates)
-- [](01-foundational-mental-models.md#9-scaling)
+- [Servers are Just Computers](01-foundational-mental-models.md#2-servers-are-just-computers)
+- [Deployment and Updates](01-foundational-mental-models.md#4-deployment-and-updates)
+- [Scaling](01-foundational-mental-models.md#9-scaling)
 
 ---
 
@@ -198,9 +198,9 @@ Think about moving:
 Containers standardize deployment!
 
 #### Related Concepts
-- [](01-foundational-mental-models.md#4-deployment-and-updates)
-- [](01-foundational-mental-models.md#5-environments)
-- [](01-foundational-mental-models.md#10-dependencies)
+- [Deployment and Updates](01-foundational-mental-models.md#4-deployment-and-updates)
+- [Environments](01-foundational-mental-models.md#5-environments)
+- [Dependencies](01-foundational-mental-models.md#10-dependencies)
 
 ---
 
