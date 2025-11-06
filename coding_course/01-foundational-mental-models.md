@@ -1,5 +1,7 @@
 # Part 1: Foundational Mental Models
 
+> **Reading time:** ~28 minutes
+
 These are the "meta" concepts that experienced developers take for granted but are crucial for understanding how code works in the real world.
 
 **Start here!** These concepts form the foundation for everything else.

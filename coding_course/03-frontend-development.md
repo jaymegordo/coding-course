@@ -1,5 +1,7 @@
 # Part 3: Frontend Development
 
+> **Reading time:** ~10 minutes
+
 Understand how user interfaces are built and how they interact with backends.
 
 **Previous**: [Part 2: Backend Development](02-backend-development.md)

@@ -1,5 +1,6 @@
 # Coding Curriculum: Learning to Program Through Real-World Concepts
 
+> **Reading time:** ~4 minutes  
 > A beginner-friendly guide to understanding how code works in the real world, extracted from a production codebase.
 
 ## Welcome

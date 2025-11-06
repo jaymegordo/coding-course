@@ -1,5 +1,7 @@
 # Part 2: Backend Development
 
+> **Reading time:** ~23 minutes
+
 Learn how servers, APIs, databases, and backend systems work.
 
 **Previous**: [Part 1: Foundational Mental Models](01-foundational-mental-models.md)

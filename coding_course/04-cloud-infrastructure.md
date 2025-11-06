@@ -1,5 +1,7 @@
 # Part 4: Cloud & Infrastructure
 
+> **Reading time:** ~8 minutes
+
 Learn about cloud services, deployment, and infrastructure.
 
 **Previous**: [Part 3: Frontend Development](03-frontend-development.md)

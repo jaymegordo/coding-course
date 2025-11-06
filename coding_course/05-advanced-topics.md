@@ -1,5 +1,7 @@
 # Part 5: Advanced Topics
 
+> **Reading time:** ~10 minutes
+
 Explore machine learning, AI, testing, and monitoring.
 
 **Previous**: [Part 4: Cloud & Infrastructure](04-cloud-infrastructure.md)
