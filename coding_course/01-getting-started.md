@@ -524,6 +524,4 @@ Based on your `pyproject.toml`:
 
 Now that you understand the practical setup, learn the concepts:
 
-**Continue to:** [Introduction & Table of Contents](00-introduction.md)
-
-Then: **[Part 1: Foundational Mental Models](02-foundational-mental-models.md)** - Understanding how code really works
+**Continue to:** **[Part 2: Foundational Mental Models](02-foundational-mental-models.md)** - Understanding how code really works
