@@ -1,12 +1,12 @@
-# Part 3: Frontend Development
+# Part 4: Frontend Development
 
 > **Reading time:** ~10 minutes
 
 Understand how user interfaces are built and how they interact with backends.
 
-**Previous**: [Part 2: Backend Development](02-backend-development.md)
+**Previous**: [Part 3: Backend Development](03-backend-development.md)
 
-**Next**: [Part 4: Cloud & Infrastructure](04-cloud-infrastructure.md)
+**Next**: [Part 5: Cloud & Infrastructure](05-cloud-infrastructure.md)
 [← Back to Introduction](00-introduction.md)
 
 ---
@@ -148,7 +148,7 @@ Different state needs different management!
 #### Related Concepts
 - [Component Architecture](#20-component-architecture)
 - [API Integration](#22-api-integration)
-- [State and Persistence](01-foundational-mental-models.md#6-state-and-persistence)
+- [State and Persistence](02-foundational-mental-models.md#6-state-and-persistence)
 
 ---
 
@@ -212,9 +212,9 @@ Think about a social media feed:
 API integration powers dynamic applications!
 
 #### Related Concepts
-- [APIs - The Restaurant Menu of the Web](02-backend-development.md#14-apis-the-restaurant-menu-of-the-web)
+- [APIs - The Restaurant Menu of the Web](03-backend-development.md#14-apis-the-restaurant-menu-of-the-web)
 - [State Management](#21-state-management)
-- [Real-Time Communication](02-backend-development.md#19-real-time-communication)
+- [Real-Time Communication](03-backend-development.md#19-real-time-communication)
 
 ---
 
@@ -286,4 +286,4 @@ Forms are everywhere in web applications!
 
 ---
 
-**Next**: Continue to [Part 4: Cloud & Infrastructure](04-cloud-infrastructure.md)
+**Next**: Continue to [Part 5: Cloud & Infrastructure](05-cloud-infrastructure.md)

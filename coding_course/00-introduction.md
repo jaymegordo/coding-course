@@ -9,9 +9,22 @@ This curriculum teaches programming concepts through mental models, not syntax. 
 
 ## What You'll Learn
 
-30 programming concepts organized into 5 parts:
+37 programming concepts organized into 6 parts:
 
-### Part 1: Foundational Mental Models
+### Part 1: Getting Started (Practical Guide)
+**5 practical topics** - Hands-on guide to development tools and workflow
+
+1. Understanding Project Structure
+2. Git and GitHub Basics
+3. Python and uv Setup
+4. Getting the Codebase Running
+5. Making Your First Changes
+
+**[→ Start with Part 1](01-getting-started.md)** ← Recommended for beginners!
+
+---
+
+### Part 2: Foundational Mental Models
 **12 concepts** - The foundation for everything else
 
 1. Everything is Code Running Somewhere
@@ -27,11 +40,11 @@ This curriculum teaches programming concepts through mental models, not syntax. 
 11. Configuration vs. Code
 12. The Request Journey
 
-**[→ Start Part 1](01-foundational-mental-models.md)**
+**[→ Start Part 2](02-foundational-mental-models.md)**
 
 ---
 
-### Part 2: Backend Development
+### Part 3: Backend Development
 **7 concepts** - Servers, APIs, databases, and backend systems
 
 13. Web Frameworks
@@ -42,11 +55,11 @@ This curriculum teaches programming concepts through mental models, not syntax. 
 18. Caching
 19. Real-Time Communication
 
-**[→ Continue to Part 2](02-backend-development.md)**
+**[→ Continue to Part 3](03-backend-development.md)**
 
 ---
 
-### Part 3: Frontend Development
+### Part 4: Frontend Development
 **4 concepts** - User interfaces and how they interact with backends
 
 20. Component Architecture
@@ -54,22 +67,22 @@ This curriculum teaches programming concepts through mental models, not syntax. 
 22. API Integration
 23. Forms and Validation
 
-**[→ Continue to Part 3](03-frontend-development.md)**
+**[→ Continue to Part 4](04-frontend-development.md)**
 
 ---
 
-### Part 4: Cloud & Infrastructure
+### Part 5: Cloud & Infrastructure
 **3 concepts** - Cloud services, deployment, and infrastructure
 
 24. Cloud Storage
 25. Serverless Functions
 26. Containerization
 
-**[→ Continue to Part 4](04-cloud-infrastructure.md)**
+**[→ Continue to Part 5](05-cloud-infrastructure.md)**
 
 ---
 
-### Part 5: Advanced Topics
+### Part 6: Advanced Topics
 **4 concepts** - Machine learning, AI, testing, and monitoring
 
 27. Machine Learning Basics
@@ -77,19 +90,21 @@ This curriculum teaches programming concepts through mental models, not syntax. 
 29. Testing
 30. Monitoring and Logging
 
-**[→ Continue to Part 5](05-advanced-topics.md)**
+**[→ Continue to Part 6](06-advanced-topics.md)**
 
 ---
 
 ## How to Use This Curriculum
 
-**Read in order** - Each concept builds on previous ones. Start with Part 1.
+**Read in order** - Each concept builds on previous ones.
 
-**For beginners**: Read sequentially, take your time, think about real-world examples.
+**For absolute beginners**: Start with Part 1 (Getting Started) to set up your development environment and learn the practical tools, then move to Part 2 for conceptual foundations.
+
+**For beginners with some coding experience**: Start with Part 2, refer to Part 1 as needed for specific tools.
 
 **For experienced developers**: Skim familiar concepts, focus on connections between concepts.
 
-**Learning path**: 12 weeks (2 weeks per part, with Part 2 split across 4 weeks).
+**Learning path**: 14 weeks (2 weeks for Part 1, 2 weeks per part thereafter, with Part 3 split across 4 weeks).
 
 ## Key Principles
 
@@ -113,11 +128,12 @@ Think of this as learning the "grammar" of programming before learning specific 
 
 ## Navigation
 
-- **[Part 1: Foundational Mental Models](01-foundational-mental-models.md)** ← Start here
-- [Part 2: Backend Development](02-backend-development.md)
-- [Part 3: Frontend Development](03-frontend-development.md)
-- [Part 4: Cloud & Infrastructure](04-cloud-infrastructure.md)
-- [Part 5: Advanced Topics](05-advanced-topics.md)
+- **[Part 1: Getting Started](01-getting-started.md)** ← Start here if you're new to development
+- **[Part 2: Foundational Mental Models](02-foundational-mental-models.md)** ← Start here for concepts
+- [Part 3: Backend Development](03-backend-development.md)
+- [Part 4: Frontend Development](04-frontend-development.md)
+- [Part 5: Cloud & Infrastructure](05-cloud-infrastructure.md)
+- [Part 6: Advanced Topics](06-advanced-topics.md)
 
 ---
 

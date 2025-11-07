@@ -1,10 +1,10 @@
-# Part 5: Advanced Topics
+# Part 6: Advanced Topics
 
 > **Reading time:** ~10 minutes
 
 Explore machine learning, AI, testing, and monitoring.
 
-**Previous**: [Part 4: Cloud & Infrastructure](04-cloud-infrastructure.md)
+**Previous**: [Part 5: Cloud & Infrastructure](05-cloud-infrastructure.md)
 
 [← Back to Introduction](00-introduction.md)
 
@@ -74,7 +74,7 @@ Machine learning powers many features you use daily!
 
 #### Related Concepts
 - [AI Agents and LLMs](#28-ai-agents-and-llms)
-- [State and Persistence](01-foundational-mental-models.md#6-state-and-persistence)
+- [State and Persistence](02-foundational-mental-models.md#6-state-and-persistence)
 
 ---
 
@@ -144,8 +144,8 @@ AI agents are powerful tools that augment human capabilities!
 
 #### Related Concepts
 - [Machine Learning Basics](#27-machine-learning-basics)
-- [APIs - The Restaurant Menu of the Web](02-backend-development.md#14-apis-the-restaurant-menu-of-the-web)
-- [State and Persistence](01-foundational-mental-models.md#6-state-and-persistence)
+- [APIs - The Restaurant Menu of the Web](03-backend-development.md#14-apis-the-restaurant-menu-of-the-web)
+- [State and Persistence](02-foundational-mental-models.md#6-state-and-persistence)
 
 ---
 
@@ -211,9 +211,9 @@ Think about a calculator app:
 Testing ensures everything works!
 
 #### Related Concepts
-- [Code Lives and Runs](01-foundational-mental-models.md#3-code-lives-and-runs)
-- [Deployment and Updates](01-foundational-mental-models.md#4-deployment-and-updates)
-- [Web Frameworks](02-backend-development.md#13-web-frameworks)
+- [Code Lives and Runs](02-foundational-mental-models.md#3-code-lives-and-runs)
+- [Deployment and Updates](02-foundational-mental-models.md#4-deployment-and-updates)
+- [Web Frameworks](03-backend-development.md#13-web-frameworks)
 
 ---
 
@@ -274,9 +274,9 @@ Think about a website:
 Monitoring keeps systems healthy!
 
 #### Related Concepts
-- [Deployment and Updates](01-foundational-mental-models.md#4-deployment-and-updates)
-- [Everything is Code Running Somewhere](01-foundational-mental-models.md#1-everything-is-code-running-somewhere)
-- [Scaling](01-foundational-mental-models.md#9-scaling)
+- [Deployment and Updates](02-foundational-mental-models.md#4-deployment-and-updates)
+- [Everything is Code Running Somewhere](02-foundational-mental-models.md#1-everything-is-code-running-somewhere)
+- [Scaling](02-foundational-mental-models.md#9-scaling)
 
 ---
 

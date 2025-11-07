@@ -1,12 +1,12 @@
-# Part 4: Cloud & Infrastructure
+# Part 5: Cloud & Infrastructure
 
 > **Reading time:** ~8 minutes
 
 Learn about cloud services, deployment, and infrastructure.
 
-**Previous**: [Part 3: Frontend Development](03-frontend-development.md)
+**Previous**: [Part 4: Frontend Development](04-frontend-development.md)
 
-**Next**: [Part 5: Advanced Topics](05-advanced-topics.md)
+**Next**: [Part 6: Advanced Topics](06-advanced-topics.md)
 [← Back to Introduction](00-introduction.md)
 
 ---
@@ -80,9 +80,9 @@ Think about photo storage apps:
 Cloud storage powers file features!
 
 #### Related Concepts
-- [Servers are Just Computers](01-foundational-mental-models.md#2-servers-are-just-computers)
-- [State and Persistence](01-foundational-mental-models.md#6-state-and-persistence)
-- [Scaling](01-foundational-mental-models.md#9-scaling)
+- [Servers are Just Computers](02-foundational-mental-models.md#2-servers-are-just-computers)
+- [State and Persistence](02-foundational-mental-models.md#6-state-and-persistence)
+- [Scaling](02-foundational-mental-models.md#9-scaling)
 
 ---
 
@@ -141,9 +141,9 @@ Think about image processing:
 Serverless makes deployment easier!
 
 #### Related Concepts
-- [Servers are Just Computers](01-foundational-mental-models.md#2-servers-are-just-computers)
-- [Deployment and Updates](01-foundational-mental-models.md#4-deployment-and-updates)
-- [Scaling](01-foundational-mental-models.md#9-scaling)
+- [Servers are Just Computers](02-foundational-mental-models.md#2-servers-are-just-computers)
+- [Deployment and Updates](02-foundational-mental-models.md#4-deployment-and-updates)
+- [Scaling](02-foundational-mental-models.md#9-scaling)
 
 ---
 
@@ -198,9 +198,9 @@ Think about moving:
 Containers standardize deployment!
 
 #### Related Concepts
-- [Deployment and Updates](01-foundational-mental-models.md#4-deployment-and-updates)
-- [Environments](01-foundational-mental-models.md#5-environments)
-- [Dependencies](01-foundational-mental-models.md#10-dependencies)
+- [Deployment and Updates](02-foundational-mental-models.md#4-deployment-and-updates)
+- [Environments](02-foundational-mental-models.md#5-environments)
+- [Dependencies](02-foundational-mental-models.md#10-dependencies)
 
 ---
 
@@ -208,4 +208,4 @@ Containers standardize deployment!
 
 ---
 
-**Next**: Continue to [Part 5: Advanced Topics](05-advanced-topics.md)
+**Next**: Continue to [Part 6: Advanced Topics](06-advanced-topics.md)

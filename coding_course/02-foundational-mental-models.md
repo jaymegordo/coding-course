@@ -1,13 +1,12 @@
-# Part 1: Foundational Mental Models
+# Part 2: Foundational Mental Models
 
 > **Reading time:** ~28 minutes
 
 These are the "meta" concepts that experienced developers take for granted but are crucial for understanding how code works in the real world.
 
-**Start here!** These concepts form the foundation for everything else.
-**Previous**: [Introduction & Table of Contents](00-introduction.md)  
+**Previous**: [Part 1: Getting Started](01-getting-started.md) | [Introduction & Table of Contents](00-introduction.md)  
 
-**Next**: [Part 2: Backend Development](02-backend-development.md)
+**Next**: [Part 3: Backend Development](03-backend-development.md)
 
 ---
 
@@ -119,7 +118,7 @@ You can turn your laptop into a server right now:
 #### Related Concepts
 - [Everything is Code Running Somewhere](#1-everything-is-code-running-somewhere)
 - [Scaling](#9-scaling)
-- [Cloud Storage](04-cloud-infrastructure.md#24-cloud-storage)
+- [Cloud Storage](05-cloud-infrastructure.md#24-cloud-storage)
 
 ---
 
@@ -223,6 +222,7 @@ Think about your favorite app:
 - [Code Lives and Runs](#3-code-lives-and-runs)
 - [Environments](#5-environments)
 - [Configuration vs. Code](#11-configuration-vs-code)
+- [Git and GitHub Basics](01-getting-started.md#2-git-and-github-basics)
 
 ---
 
@@ -327,8 +327,8 @@ Think about a game:
 If you don't save, you lose your progress!
 
 #### Related Concepts
-- [Databases and ORMs](02-backend-development.md#15-databases-and-orms)
-- [Caching](02-backend-development.md#18-caching)
+- [Databases and ORMs](03-backend-development.md#15-databases-and-orms)
+- [Caching](03-backend-development.md#18-caching)
 - [Everything is Code Running Somewhere](#1-everything-is-code-running-somewhere)
 
 ---
@@ -381,8 +381,8 @@ Think about ordering food:
 That's exactly how HTTP works!
 
 #### Related Concepts
-- [APIs - The Restaurant Menu of the Web](02-backend-development.md#14-apis-the-restaurant-menu-of-the-web)
-- [Real-Time Communication](02-backend-development.md#19-real-time-communication)
+- [APIs - The Restaurant Menu of the Web](03-backend-development.md#14-apis-the-restaurant-menu-of-the-web)
+- [Real-Time Communication](03-backend-development.md#19-real-time-communication)
 - [The Request Journey](#12-the-request-journey)
 
 ---
@@ -432,9 +432,9 @@ Think about a busy coffee shop:
 - One barista with a queue system = Async (efficient, handles many orders)
 
 #### Related Concepts
-- [Async Processing and Task Queues](02-backend-development.md#17-async-processing-and-task-queues)
+- [Async Processing and Task Queues](03-backend-development.md#17-async-processing-and-task-queues)
 - [Scaling](#9-scaling)
-- [Real-Time Communication](02-backend-development.md#19-real-time-communication)
+- [Real-Time Communication](03-backend-development.md#19-real-time-communication)
 
 ---
 
@@ -488,7 +488,7 @@ The app scales to handle growth!
 #### Related Concepts
 - [Concurrency](#8-concurrency)
 - [Servers are Just Computers](#2-servers-are-just-computers)
-- [Cloud Storage](04-cloud-infrastructure.md#24-cloud-storage)
+- [Cloud Storage](05-cloud-infrastructure.md#24-cloud-storage)
 
 ---
 
@@ -540,9 +540,10 @@ Think about a recipe:
 You can't cook without dependencies!
 
 #### Related Concepts
-- [Web Frameworks](02-backend-development.md#13-web-frameworks)
-- [Databases and ORMs](02-backend-development.md#15-databases-and-orms)
+- [Web Frameworks](03-backend-development.md#13-web-frameworks)
+- [Databases and ORMs](03-backend-development.md#15-databases-and-orms)
 - [Configuration vs. Code](#11-configuration-vs-code)
+- [Package Management with pyproject.toml and uv](01-getting-started.md#4-package-management-with-pyprojecttoml-and-uv)
 
 ---
 
@@ -661,7 +662,7 @@ Next time you use a website, think through the journey:
 #### Related Concepts
 - [Everything is Code Running Somewhere](#1-everything-is-code-running-somewhere)
 - [Networks and Communication](#7-networks-and-communication)
-- [APIs - The Restaurant Menu of the Web](02-backend-development.md#14-apis-the-restaurant-menu-of-the-web)
+- [APIs - The Restaurant Menu of the Web](03-backend-development.md#14-apis-the-restaurant-menu-of-the-web)
 - [Scaling](#9-scaling)
 
 ---
@@ -670,4 +671,4 @@ Next time you use a website, think through the journey:
 
 ---
 
-**Next**: Continue to [Part 2: Backend Development](02-backend-development.md)
+**Next**: Continue to [Part 3: Backend Development](03-backend-development.md)
